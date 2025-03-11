@@ -1,2 +1,2 @@
-this is scienc-article.txt
+Hey this is science article text file.
 
